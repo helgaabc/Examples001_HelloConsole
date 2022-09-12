@@ -1,0 +1,15 @@
+/Users/elena/Documents/Examples/Examples007_Magic/bin/Debug/net6.0/Examples007_Magic
+/Users/elena/Documents/Examples/Examples007_Magic/bin/Debug/net6.0/Examples007_Magic.deps.json
+/Users/elena/Documents/Examples/Examples007_Magic/bin/Debug/net6.0/Examples007_Magic.runtimeconfig.json
+/Users/elena/Documents/Examples/Examples007_Magic/bin/Debug/net6.0/Examples007_Magic.dll
+/Users/elena/Documents/Examples/Examples007_Magic/bin/Debug/net6.0/Examples007_Magic.pdb
+/Users/elena/Documents/Examples/Examples007_Magic/obj/Debug/net6.0/Examples007_Magic.csproj.AssemblyReference.cache
+/Users/elena/Documents/Examples/Examples007_Magic/obj/Debug/net6.0/Examples007_Magic.GeneratedMSBuildEditorConfig.editorconfig
+/Users/elena/Documents/Examples/Examples007_Magic/obj/Debug/net6.0/Examples007_Magic.AssemblyInfoInputs.cache
+/Users/elena/Documents/Examples/Examples007_Magic/obj/Debug/net6.0/Examples007_Magic.AssemblyInfo.cs
+/Users/elena/Documents/Examples/Examples007_Magic/obj/Debug/net6.0/Examples007_Magic.csproj.CoreCompileInputs.cache
+/Users/elena/Documents/Examples/Examples007_Magic/obj/Debug/net6.0/Examples007_Magic.dll
+/Users/elena/Documents/Examples/Examples007_Magic/obj/Debug/net6.0/refint/Examples007_Magic.dll
+/Users/elena/Documents/Examples/Examples007_Magic/obj/Debug/net6.0/Examples007_Magic.pdb
+/Users/elena/Documents/Examples/Examples007_Magic/obj/Debug/net6.0/Examples007_Magic.genruntimeconfig.cache
+/Users/elena/Documents/Examples/Examples007_Magic/obj/Debug/net6.0/ref/Examples007_Magic.dll
