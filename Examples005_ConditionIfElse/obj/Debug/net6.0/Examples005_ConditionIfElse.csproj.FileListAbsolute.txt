@@ -1,0 +1,15 @@
+/Users/elena/Documents/Examples/Examples005_ConditionIfElse/obj/Debug/net6.0/Examples005_ConditionIfElse.csproj.AssemblyReference.cache
+/Users/elena/Documents/Examples/Examples005_ConditionIfElse/obj/Debug/net6.0/Examples005_ConditionIfElse.GeneratedMSBuildEditorConfig.editorconfig
+/Users/elena/Documents/Examples/Examples005_ConditionIfElse/obj/Debug/net6.0/Examples005_ConditionIfElse.AssemblyInfoInputs.cache
+/Users/elena/Documents/Examples/Examples005_ConditionIfElse/obj/Debug/net6.0/Examples005_ConditionIfElse.AssemblyInfo.cs
+/Users/elena/Documents/Examples/Examples005_ConditionIfElse/obj/Debug/net6.0/Examples005_ConditionIfElse.csproj.CoreCompileInputs.cache
+/Users/elena/Documents/Examples/Examples005_ConditionIfElse/bin/Debug/net6.0/Examples005_ConditionIfElse
+/Users/elena/Documents/Examples/Examples005_ConditionIfElse/bin/Debug/net6.0/Examples005_ConditionIfElse.deps.json
+/Users/elena/Documents/Examples/Examples005_ConditionIfElse/bin/Debug/net6.0/Examples005_ConditionIfElse.runtimeconfig.json
+/Users/elena/Documents/Examples/Examples005_ConditionIfElse/bin/Debug/net6.0/Examples005_ConditionIfElse.dll
+/Users/elena/Documents/Examples/Examples005_ConditionIfElse/bin/Debug/net6.0/Examples005_ConditionIfElse.pdb
+/Users/elena/Documents/Examples/Examples005_ConditionIfElse/obj/Debug/net6.0/Examples005_ConditionIfElse.dll
+/Users/elena/Documents/Examples/Examples005_ConditionIfElse/obj/Debug/net6.0/refint/Examples005_ConditionIfElse.dll
+/Users/elena/Documents/Examples/Examples005_ConditionIfElse/obj/Debug/net6.0/Examples005_ConditionIfElse.pdb
+/Users/elena/Documents/Examples/Examples005_ConditionIfElse/obj/Debug/net6.0/Examples005_ConditionIfElse.genruntimeconfig.cache
+/Users/elena/Documents/Examples/Examples005_ConditionIfElse/obj/Debug/net6.0/ref/Examples005_ConditionIfElse.dll
