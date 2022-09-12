@@ -1,0 +1,15 @@
+/Users/elena/Documents/Examples/Examples006_Base/bin/Debug/net6.0/Examples006_Base
+/Users/elena/Documents/Examples/Examples006_Base/bin/Debug/net6.0/Examples006_Base.deps.json
+/Users/elena/Documents/Examples/Examples006_Base/bin/Debug/net6.0/Examples006_Base.runtimeconfig.json
+/Users/elena/Documents/Examples/Examples006_Base/bin/Debug/net6.0/Examples006_Base.dll
+/Users/elena/Documents/Examples/Examples006_Base/bin/Debug/net6.0/Examples006_Base.pdb
+/Users/elena/Documents/Examples/Examples006_Base/obj/Debug/net6.0/Examples006_Base.csproj.AssemblyReference.cache
+/Users/elena/Documents/Examples/Examples006_Base/obj/Debug/net6.0/Examples006_Base.GeneratedMSBuildEditorConfig.editorconfig
+/Users/elena/Documents/Examples/Examples006_Base/obj/Debug/net6.0/Examples006_Base.AssemblyInfoInputs.cache
+/Users/elena/Documents/Examples/Examples006_Base/obj/Debug/net6.0/Examples006_Base.AssemblyInfo.cs
+/Users/elena/Documents/Examples/Examples006_Base/obj/Debug/net6.0/Examples006_Base.csproj.CoreCompileInputs.cache
+/Users/elena/Documents/Examples/Examples006_Base/obj/Debug/net6.0/Examples006_Base.dll
+/Users/elena/Documents/Examples/Examples006_Base/obj/Debug/net6.0/refint/Examples006_Base.dll
+/Users/elena/Documents/Examples/Examples006_Base/obj/Debug/net6.0/Examples006_Base.pdb
+/Users/elena/Documents/Examples/Examples006_Base/obj/Debug/net6.0/Examples006_Base.genruntimeconfig.cache
+/Users/elena/Documents/Examples/Examples006_Base/obj/Debug/net6.0/ref/Examples006_Base.dll
