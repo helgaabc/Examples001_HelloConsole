@@ -1,0 +1,15 @@
+/Users/elena/Documents/Examples/Examples010_ArrayMethod/bin/Debug/net6.0/Examples010_ArrayMethod
+/Users/elena/Documents/Examples/Examples010_ArrayMethod/bin/Debug/net6.0/Examples010_ArrayMethod.deps.json
+/Users/elena/Documents/Examples/Examples010_ArrayMethod/bin/Debug/net6.0/Examples010_ArrayMethod.runtimeconfig.json
+/Users/elena/Documents/Examples/Examples010_ArrayMethod/bin/Debug/net6.0/Examples010_ArrayMethod.dll
+/Users/elena/Documents/Examples/Examples010_ArrayMethod/bin/Debug/net6.0/Examples010_ArrayMethod.pdb
+/Users/elena/Documents/Examples/Examples010_ArrayMethod/obj/Debug/net6.0/Examples010_ArrayMethod.csproj.AssemblyReference.cache
+/Users/elena/Documents/Examples/Examples010_ArrayMethod/obj/Debug/net6.0/Examples010_ArrayMethod.GeneratedMSBuildEditorConfig.editorconfig
+/Users/elena/Documents/Examples/Examples010_ArrayMethod/obj/Debug/net6.0/Examples010_ArrayMethod.AssemblyInfoInputs.cache
+/Users/elena/Documents/Examples/Examples010_ArrayMethod/obj/Debug/net6.0/Examples010_ArrayMethod.AssemblyInfo.cs
+/Users/elena/Documents/Examples/Examples010_ArrayMethod/obj/Debug/net6.0/Examples010_ArrayMethod.csproj.CoreCompileInputs.cache
+/Users/elena/Documents/Examples/Examples010_ArrayMethod/obj/Debug/net6.0/Examples010_ArrayMethod.dll
+/Users/elena/Documents/Examples/Examples010_ArrayMethod/obj/Debug/net6.0/refint/Examples010_ArrayMethod.dll
+/Users/elena/Documents/Examples/Examples010_ArrayMethod/obj/Debug/net6.0/Examples010_ArrayMethod.pdb
+/Users/elena/Documents/Examples/Examples010_ArrayMethod/obj/Debug/net6.0/Examples010_ArrayMethod.genruntimeconfig.cache
+/Users/elena/Documents/Examples/Examples010_ArrayMethod/obj/Debug/net6.0/ref/Examples010_ArrayMethod.dll
